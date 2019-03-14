@@ -1,3 +1,3 @@
 # resume
 
-My CV as JSON
+CV as JSON
