@@ -1,0 +1,48 @@
+{
+  "name": "Thomas Deconinck",
+  "birth": "21/09/1992",
+  "location": "Lille, France",
+  "socials": [
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/DCK__"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/DCKT"
+    }
+  ],
+  "favoritesTools": ["React", "React Native", "ReasonML", "Node.js"],
+  "experiments": [
+    {
+      "title": "Développeur",
+      "location": "Lille",
+      "company": "Colisweb",
+      "date": "2016-08",
+      "description": "Développement et maintenance de l'application mobile des transporteurs, développement et intégration du back-office",
+      "technologies": ["React", "React Native", "ReasonML", "FlowType", "CSS in JS", "Sketch"]
+    },
+    {
+      "title": "Développeur Front-end",
+      "location": "Roubaix",
+      "company": "Altima",
+      "date": "2014-05",
+      "description": "Intégration de maquette, développement de l'interface et expérience utilisateur. Mise en place des maquettes sous Hybris, Magento, Microsoft Commerce Server, Symfony 2. Participation aux projets Petit Bateau, Grand Vision, 3 Suisses, Skimium.",
+      "technologies": ["HTML5", "CSS3", "PostCSS", "CSSNext", "React", "Backbone", "Grunt", "jQuery"]
+    }
+  ],
+  "qualifications": [
+    {
+      "title": "Bac +2 Associate of Science",
+      "location": "Lille",
+      "description": "Supinfo International University",
+      "date": "2014"
+    },
+    {
+      "title": "Bac Technicien informaticien",
+      "location": "Comines Belgique",
+      "description": "Collège Technique Saint Joseph",
+      "date": "2011"
+    }
+  ]
+}
